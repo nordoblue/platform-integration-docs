@@ -1,0 +1,10 @@
+product_name: Orbit Workforce Platform
+short_name: Orbit
+api_base_url: https://api.orbit.example
+webhook_path: /v1/webhooks
+employee_api_path: /v1/employees
+support_name: Orbit Support
+default_retry_window_hours: 24
+signature_header: X-Orbit-Signature
+event_id_header: X-Orbit-Event-Id
+delivery_id_header: X-Orbit-Delivery-Id
